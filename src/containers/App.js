@@ -43,7 +43,7 @@ class App extends React.Component {
 
            return !robots.length ? 
            
-           <h1>Loading</h1> :
+           <h2>Loading</h2> :
    
                    (
                 <div className="tc">        
